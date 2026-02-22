@@ -1,6 +1,6 @@
-# ChatBox - A Simple Java Socket Chat Application
+# A Simple Java Client-Server Chat Application
 
-ChatBox is a basic real-time chat application built using **Java Sockets**. It enables communication between a client and a server over a network. With **multithreading**, it ensures seamless message exchange without delays.
+It is a basic real-time chat application built using **Java Sockets**. It enables communication between a client and a server over a network. With **multithreading**, it ensures seamless message exchange without delays.
 
 ## Features
 - ✅ Real-time messaging between client and server
