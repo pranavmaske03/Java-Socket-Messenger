@@ -41,6 +41,3 @@ java Client
  ├── Client.java   # Client-side implementation
  ├── README.md     # Project documentation
 ```
-
-## License
-This project is open-source and free to use. Feel free to contribute! 🚀
